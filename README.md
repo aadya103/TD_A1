@@ -9,10 +9,10 @@ The program prompts the user to enter two numbers, then performs and displays th
 Enter the first number: 10  
 Enter the second number: 5
   
-Addition Result: 10 + 5 = 15  
-Subtraction Result: 10 - 5 = 5  
-Multiplication Result: 10 * 5 = 50  
-Division Result: 10 / 5 = 2.0
+Addition: 10 + 5 = 15  
+Subtraction: 10 - 5 = 5  
+Multiplication: 10 * 5 = 50  
+Divisiont: 10 / 5 = 2.0
 ```
 
 ## Task 2: Create a Personalized Greeting  
